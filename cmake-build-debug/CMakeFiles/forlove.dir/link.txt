@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/forlove.dir/src/main.cpp.o  -o forlove  -L/home/hujin/workspace/forlove/thirdlibs/linux/lib -Wl,-rpath,/home/hujin/workspace/forlove/thirdlibs/linux/lib -Wl,-Bstatic -levent -levent_core -levent_extra -levent_pthreads -Wl,-Bdynamic 

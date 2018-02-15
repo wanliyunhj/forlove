@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/home_assistant.dir/main.cpp.o  -o home_assistant 
