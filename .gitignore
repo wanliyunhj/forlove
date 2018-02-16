@@ -7,3 +7,8 @@
 *.d*.o
 *.d*.o
 *.d
+output/
+cmake-build-debug/
+.idea/
+bin/*
+
